@@ -4,6 +4,8 @@ Dell Precision T5810 向け Turbo Boost Unlock（TBU）プロジェクト。Hasw
 
 本リポジトリは Dell Precision T5810 における Haswell-EP Xeon v3 の Turbo Boost Unlock を研究するためのものです。マイクロコード制限を回避し、EFI ドライバを利用して全コアを最大倍率で動作させる手法を記録します。
 
+[Turbo Unlock Notes](turbo_unlock_notes.md)
+
 ## 概要
 
 - T5810A32 BIOS のバックアップと解析  
