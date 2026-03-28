@@ -7,7 +7,7 @@
 [Precision Tower 5810のサポート | 概要
 ](https://www.dell.com/support/product-details/ja-jp/product/precision-t5810-workstation/overview)
 
-## download
+## dell download
 
 [ドライバーおよびダウンロード](https://www.dell.com/support/product-details/ja-jp/product/precision-t5810-workstation/drivers)
 
